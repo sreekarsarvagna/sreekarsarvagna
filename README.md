@@ -1,8 +1,7 @@
-[![MasterHead]([https://i.gifer.com/24Qk.gif])](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 <h1 align="center">Hi 👋, I'm Sreekar Sarvagna Narisepalli Venkata</h1>
 <h3 align="center">Passionate RTL Design & Verification Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"
-
+<img align="right" alt="Coding" width="400" src="https://d1k5j68ob7clqb.cloudfront.net/uploads/images/637266f2edcfd_946538277402aivshumans.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekarsarvagna&label=Profile%20views&color=0e75b6&style=flat" alt="sreekarsarvagna" /> </p>
 
