@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/24Qk.gif)](https://rishavchanda.io)
+[![MasterHead]([https://i.gifer.com/24Qk.gif])](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sreekar Sarvagna Narisepalli Venkata</h1>
 <h3 align="center">Passionate RTL Design & Verification Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"
