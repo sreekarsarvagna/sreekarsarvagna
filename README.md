@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Verilog, System Verilog, C**
 
-- 📫 How to reach me **sreekarsarvagna@gmail.com**
+- 📫 How to reach me **adi.srikar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nd_bzBWQE0F26_Ug2jwHfGBMcwYJJ7Ec/view?usp=sharing](https://drive.google.com/file/d/1nd_bzBWQE0F26_Ug2jwHfGBMcwYJJ7Ec/view?usp=sharing)
 
